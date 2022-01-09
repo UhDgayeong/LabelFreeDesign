@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sample1</string>
+    <string name="alergy">[알레르기 정보]</string>
+</resources>
